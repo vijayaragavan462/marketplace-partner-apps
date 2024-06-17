@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.15](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.1.14...thrillworks-flex-fields-app-v1.1.15) (2024-06-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/default-field-editors from 1.6.27 to 1.6.50 in /apps/flexfields ([#2049](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2049)) ([e6157b7](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e6157b73b46124a452757d28ef716cecbd268002))
+* **deps:** bump @contentful/f36-components from 4.59.3 to 4.66.0 in /apps/flexfields ([#2036](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2036)) ([148fb47](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/148fb47b909c9e885d904d94e6c385baad86dba6))
+* **deps:** bump @contentful/f36-tokens from 4.0.2 to 4.0.5 ([#1905](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1905)) ([09c9882](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/09c9882ecbce217e25f85065ace36d09efcb54c5))
+* **deps:** bump braces from 3.0.2 to 3.0.3 in /apps/flexfields ([#2066](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2066)) ([e05e873](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e05e8739c4748704fedf642f52159c516e4e3b52))
+* **deps:** bump contentful-management from 11.23.1 to 11.27.0 in /apps/flexfields ([#2096](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2096)) ([9b8fd5e](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/9b8fd5e98a176ae99a3e3402f0f5ebd0208ab4a5))
+* **deps:** bump ejs from 3.1.8 to 3.1.10 in /apps/flexfields ([#1703](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1703)) ([1e9354f](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/1e9354fea00477d596491be230c7809555bc05b7))
+* Update emotion and typescript versions for FlexFields ([#1376](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1376)) ([97d07dc](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/97d07dc27a1d9f5cfa17591bd40f0536aeeff490))
+
 ## [1.1.14](https://github.com/contentful/marketplace-partner-apps/compare/thrillworks-flex-fields-app-v1.1.13...thrillworks-flex-fields-app-v1.1.14) (2024-06-07)
 
 

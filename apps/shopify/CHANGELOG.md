@@ -1,5 +1,47 @@
 # Changelog
 
+## [3.0.0](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/shopify-sku-v2.0.0...shopify-sku-v3.0.0) (2024-06-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* update shopify to react v18 and @contentful/ecommerce-app-base v4 ([#2029](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2029))
+
+### Bug Fixes
+
+* **deps:** bump @contentful/ecommerce-app-base from 3.5.44 to 3.6.0 in /apps/shopify ([#1566](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1566)) ([086f1f9](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/086f1f92bf567b466c47fdbe8de2acfe6a192705))
+* **deps:** bump @contentful/ecommerce-app-base from 3.6.0 to 3.6.1 in /apps/shopify ([#1697](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1697)) ([237433a](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/237433a07b4ff721907aa6a4ac3027b31a1874e6))
+* **deps:** bump @contentful/ecommerce-app-base from 3.6.1 to 3.6.9 in /apps/shopify ([#1820](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1820)) ([fd8474e](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/fd8474e9a7038bd725c298abe2fa9f7a7e7ca0e1))
+* **deps:** bump @contentful/ecommerce-app-base from 3.6.10 to 3.6.11 in /apps/shopify ([#1916](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1916)) ([f512548](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/f512548bd0f16b0f27f5bfb9e3e19cc0337d7508))
+* **deps:** bump @contentful/ecommerce-app-base from 3.6.9 to 3.6.10 in /apps/shopify ([#1841](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1841)) ([9e43d4a](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/9e43d4a9549f9bc7adb35ab459b7e58db21f7e3d))
+* **deps:** bump @contentful/ecommerce-app-base from 4.0.6 to 4.0.7 in /apps/shopify ([#2048](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2048)) ([1e638d3](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/1e638d3d3b358ecb1a5783c67128a181c5407e1b))
+* **deps:** bump @contentful/ecommerce-app-base from 4.0.7 to 4.0.9 in /apps/shopify ([#2087](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2087)) ([e559e23](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e559e239b25db4042f339ce9ef10ea17bf274900))
+* **deps:** bump @contentful/f36-components from 4.64.0 to 4.65.0 in /apps/shopify ([#1603](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1603)) ([c642913](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/c6429133dd69f1d1df95a9de80156e4bfee94234))
+* **deps:** bump @contentful/f36-components from 4.65.0 to 4.65.1 in /apps/shopify ([#1655](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1655)) ([f5e8180](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/f5e81808ece78d206647dd282fa1b9dc50cabb78))
+* **deps:** bump @contentful/f36-components from 4.65.1 to 4.65.3 in /apps/shopify ([#1674](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1674)) ([485a705](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/485a705609a86272b6810e19cc68e79beced8c88))
+* **deps:** bump @contentful/f36-components from 4.65.3 to 4.65.4 in /apps/shopify ([#1690](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1690)) ([1e37d5b](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/1e37d5bcc7154fbc9596e23d7e039b08c0257209))
+* **deps:** bump @contentful/f36-components from 4.65.4 to 4.65.5 in /apps/shopify ([#1728](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1728)) ([d15cda0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/d15cda06713cb4585090ac849b00d728c983c75c))
+* **deps:** bump @contentful/f36-components from 4.65.5 to 4.65.6 in /apps/shopify ([#1810](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1810)) ([e705caa](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e705caa032ff7100d562f29a4e549845b62870fc))
+* **deps:** bump @contentful/f36-components from 4.65.6 to 4.65.7 in /apps/shopify ([#1898](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1898)) ([8c47cc4](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/8c47cc4b396c0db12928bcfd0732d6b132164efb))
+* **deps:** bump @contentful/f36-components from 4.65.7 to 4.65.8 in /apps/shopify ([#1933](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1933)) ([675b3a0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/675b3a00407189e59322b9f3b691982177790368))
+* **deps:** bump @contentful/f36-components from 4.65.8 to 4.65.9 in /apps/shopify ([#2026](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2026)) ([4a18662](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/4a18662aae497dfbf2ca678b3f47b744400c9f55))
+* **deps:** bump @contentful/f36-components from 4.65.9 to 4.66.0 in /apps/shopify ([#2043](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2043)) ([0067cc1](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/0067cc18bff66d9e47e547ffc9651c29c4e57de7))
+* **deps:** bump @contentful/f36-components from 4.66.0 to 4.67.0 in /apps/shopify ([#2073](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2073)) ([0b13865](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/0b13865163646f26ad20571edd562af6e401ce19))
+* **deps:** bump @contentful/f36-icons from 4.28.0 to 4.28.1 in /apps/shopify ([#1614](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1614)) ([daf3813](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/daf381384a601859613b75b4966908d879ce5b18))
+* **deps:** bump @contentful/f36-icons from 4.28.1 to 4.28.2 in /apps/shopify ([#1623](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1623)) ([2457683](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/24576830f6859514baf2c2e562f8378e897887bc))
+* **deps:** bump braces from 3.0.2 to 3.0.3 in /apps/shopify ([#2060](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2060)) ([44d5ba8](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/44d5ba88a8712022ceb7966cdf00b2a875d6110b))
+* **deps:** bump core-js from 3.36.1 to 3.37.0 in /apps/shopify ([#1548](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1548)) ([5ee0205](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/5ee0205cc6779805657bff2e71adc82ff935a93d))
+* **deps:** bump core-js from 3.37.0 to 3.37.1 in /apps/shopify ([#1819](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1819)) ([3b2f24a](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/3b2f24afd3fbd3ebfec5a87b0ecf010c8f2a8175))
+* **deps:** bump react from 18.2.0 to 18.3.1 in /apps/shopify ([#2030](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2030)) ([d4b9bee](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/d4b9bee2c9ac87d33bd80bcd636741acdf9c36a6))
+* **deps:** bump react-dom from 18.2.0 to 18.3.1 in /apps/shopify ([#2042](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2042)) ([2bdaf4c](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/2bdaf4c71dcf4d2a8c790756d8a1ad9201185c4c))
+* **deps:** bump shopify-buy from 2.21.1 to 2.22.0 in /apps/shopify ([#1729](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1729)) ([911d058](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/911d058fc8872cce6993a73519e11bd4d39848ae))
+* placeholder text for Shopify SkuPicker [INTEG-2024] ([#1607](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1607)) ([76331ab](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/76331ab6f45f1eda3bc73df38ae45295593fc1cb))
+
+
+### Build System
+
+* update shopify to react v18 and @contentful/ecommerce-app-base v4 ([#2029](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2029)) ([cb02e32](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/cb02e32113068ef4e2827600dd8f820271a00038))
+
 ## [2.0.0](https://github.com/contentful/marketplace-partner-apps/compare/shopify-sku-v1.1.15...shopify-sku-v2.0.0) (2024-06-07)
 
 

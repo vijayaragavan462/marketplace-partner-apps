@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.18](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.17...image-hotspot-creator-v1.0.18) (2024-06-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-tokens from 4.0.2 to 4.0.5 ([#1905](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1905)) ([09c9882](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/09c9882ecbce217e25f85065ace36d09efcb54c5))
+* **deps:** bump @mui/icons-material from 5.15.14 to 5.15.18 ([#1902](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1902)) ([6e78f14](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/6e78f14130426ec96b7a9ab0a13262b7d04b2f3e))
+* **deps:** bump @mui/material from 5.15.14 to 5.15.18 ([#1924](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1924)) ([17bfccb](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/17bfccb35259106a3b6b78d4279ec19ce397c438))
+* **deps:** bump axios from 1.4.0 to 1.6.8 ([#1567](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1567)) ([6614699](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/6614699604d81fdf70cd00d521dee2915712fd88))
+* **deps:** bump braces from 3.0.2 to 3.0.3 in /apps/imageHotspotCreator ([#2064](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2064)) ([eb083f4](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/eb083f4843cfe849a24722cc5fd73cbda5ef185c))
+* **deps:** bump ejs from 3.1.9 to 3.1.10 in /apps/imageHotspotCreator ([#1705](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1705)) ([bd1f63d](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/bd1f63d048c94cfb157621abf67116a9bf1f7ec3))
+
 ## [1.0.17](https://github.com/contentful/marketplace-partner-apps/compare/image-hotspot-creator-v1.0.16...image-hotspot-creator-v1.0.17) (2024-05-29)
 
 

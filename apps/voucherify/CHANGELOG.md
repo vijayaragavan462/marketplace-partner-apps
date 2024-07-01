@@ -1,5 +1,34 @@
 # Changelog
 
+## [1.0.18](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/voucherify-contentful-app-v1.0.17...voucherify-contentful-app-v1.0.18) (2024-06-17)
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.64.0 to 4.65.0 in /apps/voucherify ([#1601](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1601)) ([965dec3](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/965dec3dffdb9c2d55a5759931f1e4f41c0d9e16))
+* **deps:** bump @contentful/f36-components from 4.65.0 to 4.65.1 in /apps/voucherify ([#1650](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1650)) ([454953e](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/454953ee9b63192dff4b1a917a74d5763beb0bc1))
+* **deps:** bump @contentful/f36-components from 4.65.1 to 4.65.3 in /apps/voucherify ([#1663](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1663)) ([5ec04a8](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/5ec04a84d72d17d06298eb7c093d1fc77ae3dcfc))
+* **deps:** bump @contentful/f36-components from 4.65.3 to 4.65.4 in /apps/voucherify ([#1692](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1692)) ([ad750f0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/ad750f02dadd89325d416ccd59b3f73d969d0945))
+* **deps:** bump @contentful/f36-components from 4.65.4 to 4.65.5 in /apps/voucherify ([#1735](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1735)) ([b76236b](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/b76236b3aadb712f712b3bcc4ce7237c30d19fd9))
+* **deps:** bump @contentful/f36-components from 4.65.5 to 4.65.6 in /apps/voucherify ([#1808](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1808)) ([6fc8142](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/6fc8142539ab84a8c391f3327dbe8bc688221c7e))
+* **deps:** bump @contentful/f36-components from 4.65.6 to 4.65.7 in /apps/voucherify ([#1884](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1884)) ([867ad60](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/867ad60a501117dde17e4763bbc5e33bab1efe62))
+* **deps:** bump @contentful/f36-components from 4.65.7 to 4.65.8 in /apps/voucherify ([#1929](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1929)) ([f956a8b](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/f956a8b0a2ceef90c3fa1741eab5658be3b76e52))
+* **deps:** bump @contentful/f36-components from 4.65.8 to 4.65.9 in /apps/voucherify ([#2018](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2018)) ([838dd48](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/838dd482f2db18b0faea5e88505f0f04ae1acc02))
+* **deps:** bump @contentful/f36-components from 4.65.9 to 4.66.0 in /apps/voucherify ([#2035](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2035)) ([832953f](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/832953f0ff4346a27a702b0cbe1fe35fcfe878a4))
+* **deps:** bump @contentful/f36-components from 4.66.0 to 4.67.0 in /apps/voucherify ([#2072](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2072)) ([938102f](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/938102f3588faed43e7ad6b359bc152ae995adca))
+* **deps:** bump @contentful/f36-icons from 4.28.0 to 4.28.1 in /apps/voucherify ([#1617](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1617)) ([163ad2e](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/163ad2e85d1a91a60fe8a60c92b5acf8d304fd40))
+* **deps:** bump @contentful/f36-icons from 4.28.1 to 4.28.2 in /apps/voucherify ([#1630](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1630)) ([c6854b5](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/c6854b5893ee0caa344439f60fc6a403a247fd98))
+* **deps:** bump axios from 1.6.8 to 1.7.0 in /apps/voucherify ([#1843](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1843)) ([eee55c9](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/eee55c9b7439273be7f156e7c1befd3bfb65eba5))
+* **deps:** bump axios from 1.7.0 to 1.7.1 in /apps/voucherify ([#1846](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1846)) ([0f2caf9](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/0f2caf9ffc8a38cbe36d4197c1dc63bc2169bf9c))
+* **deps:** bump axios from 1.7.1 to 1.7.2 in /apps/voucherify ([#1858](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1858)) ([da53081](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/da530815cf12be4a35a9336adf37b60e659821fe))
+* **deps:** bump react from 18.2.0 to 18.3.0 in /apps/voucherify ([#1631](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1631)) ([e09dc82](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e09dc825248b4264763d4fb840839562bc8d397a))
+* **deps:** bump react from 18.3.0 to 18.3.1 in /apps/voucherify ([#1649](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1649)) ([f19dea3](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/f19dea34436f7dd7d503917d17903178750ea7b3))
+* **deps:** bump react-hook-form from 7.51.3 to 7.51.4 in /apps/voucherify ([#1745](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1745)) ([87d1960](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/87d1960949744ab53fc2fa47265d12277f990b51))
+* **deps:** bump react-hook-form from 7.51.4 to 7.51.5 in /apps/voucherify ([#1859](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1859)) ([7fd85be](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/7fd85be5358a3dad246ad97217614de0904657b0))
+* **deps:** bump react-hook-form from 7.51.5 to 7.52.0 in /apps/voucherify ([#2119](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2119)) ([6a82507](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/6a82507afbecfb7763bfd4548bdb340e2a6cd60d))
+* **deps:** bump react-router-dom from 6.22.3 to 6.23.0 in /apps/voucherify ([#1602](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1602)) ([03e62ee](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/03e62eeb79e67a33675f62bb56f1acc28914aa0c))
+* **deps:** bump react-router-dom from 6.23.0 to 6.23.1 in /apps/voucherify ([#1800](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1800)) ([ae5af30](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/ae5af30bc627aa808fe6a1da4aaf786cd052cb3c))
+
 ## [1.0.17](https://github.com/contentful/marketplace-partner-apps/compare/voucherify-contentful-app-v1.0.16...voucherify-contentful-app-v1.0.17) (2024-06-07)
 
 

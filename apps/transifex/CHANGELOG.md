@@ -1,5 +1,37 @@
 # Changelog
 
+## [1.3.0](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/transifex-contentful-app-v1.2.2...transifex-contentful-app-v1.3.0) (2024-06-17)
+
+
+### Features
+
+* Transifex app remove the default locale restriction ([#1784](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1784)) ([e438d59](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e438d59babf5a22ba9a8ac00f1ce2336e543468a))
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.64.0 to 4.65.0 in /apps/transifex ([#1589](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1589)) ([698c766](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/698c7668e83bd068ec2ba10d8962285342ecce2d))
+* **deps:** bump @contentful/f36-components from 4.65.0 to 4.65.5 in /apps/transifex ([#1754](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1754)) ([84ff242](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/84ff242569314cf888089756b4c7845e798ecf99))
+* **deps:** bump @contentful/f36-components from 4.65.5 to 4.65.6 in /apps/transifex ([#1816](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1816)) ([66cf005](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/66cf0053ca97153f136cdbd8f6bff4b145215d68))
+* **deps:** bump @contentful/f36-components from 4.65.6 to 4.65.7 in /apps/transifex ([#1894](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1894)) ([f018de1](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/f018de166302326d7ec9ee82d8c1733db44d7723))
+* **deps:** bump @contentful/f36-components from 4.65.7 to 4.65.8 in /apps/transifex ([#1931](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1931)) ([58b18b4](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/58b18b43c5dc11214e354f55d0601eb21c3e5160))
+* **deps:** bump @contentful/f36-components from 4.65.8 to 4.67.0 in /apps/transifex ([#2057](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2057)) ([1efc72a](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/1efc72a2f93a736c2a751708575676989f7fa281))
+* **deps:** bump @contentful/f36-icons from 4.28.0 to 4.28.1 in /apps/transifex ([#1609](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1609)) ([19bdfe1](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/19bdfe14afcd8558137085cef524a4f5e14ec2ce))
+* **deps:** bump @contentful/f36-icons from 4.28.1 to 4.28.2 in /apps/transifex ([#1724](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1724)) ([e221263](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e221263fd862163a7712aa246f5f09a9ad7c43b8))
+* **deps:** bump @contentful/f36-tokens from 4.0.2 to 4.0.5 ([#1905](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1905)) ([09c9882](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/09c9882ecbce217e25f85065ace36d09efcb54c5))
+* **deps:** bump contentful-management from 11.25.0 to 11.25.1 in /apps/transifex ([#1584](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1584)) ([3743666](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/3743666754bd14da258bf36f37e0f84bd08bd9b6))
+* **deps:** bump contentful-management from 11.25.1 to 11.25.2 in /apps/transifex ([#1627](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1627)) ([fdf074e](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/fdf074e43640a657a280d57135bd034b7a53fd97))
+* **deps:** bump contentful-management from 11.25.2 to 11.25.3 in /apps/transifex ([#1773](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1773)) ([979696f](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/979696f3c1e7c33959eb746a2081db728775bebf))
+* **deps:** bump contentful-management from 11.25.3 to 11.25.5 in /apps/transifex ([#1836](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1836)) ([b8b7bc3](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/b8b7bc326701c3fe9b7910708d5a2fec9c74c6be))
+* **deps:** bump contentful-management from 11.25.5 to 11.25.6 in /apps/transifex ([#1855](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1855)) ([95439dc](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/95439dc7ed95214b5d5b95b9fd6c483ca78d16a5))
+* **deps:** bump contentful-management from 11.25.6 to 11.26.1 in /apps/transifex ([#1869](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1869)) ([b793b85](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/b793b85fa1e438f6abacccdde32e081f2d0436fe))
+* **deps:** bump contentful-management from 11.26.1 to 11.26.2 in /apps/transifex ([#1927](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1927)) ([489da30](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/489da30789beb8c4ea27008b86cce004f11f0bc4))
+* **deps:** bump contentful-management from 11.26.2 to 11.27.0 in /apps/transifex ([#2041](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2041)) ([996d0b8](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/996d0b87e6b3c31ae76de217509ea765f88a79ed))
+* **deps:** bump contentful-management from 11.27.0 to 11.27.1 in /apps/transifex ([#2117](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2117)) ([3011029](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/301102975d3ece11dc556cddcf4a3f6e77a0c047))
+* **deps:** bump react and @types/react in /apps/transifex ([#1673](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1673)) ([ee619e2](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/ee619e2079a4b4d1c61a382fa99ad1ad6701ace8))
+* **deps:** bump react-dom and @types/react-dom in /apps/transifex ([#1712](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1712)) ([22537f0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/22537f092b2999a19d374a5116a44ea2f9011dff))
+* Transifex app handle deleted project case ([#1679](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1679)) ([82d2551](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/82d255173ba5563571e61c35ff02591304050cae))
+
 ## [1.2.2](https://github.com/contentful/marketplace-partner-apps/compare/transifex-contentful-app-v1.2.1...transifex-contentful-app-v1.2.2) (2024-06-07)
 
 

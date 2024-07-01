@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.1.14](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/bynder-assets-v1.1.13...bynder-assets-v1.1.14) (2024-06-17)
+
+
+### Bug Fixes
+
+* bump dam-app-base for delete functionality fix [ZEND-5025] ([#1997](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1997)) ([c9d1918](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/c9d1918b9cca5f45ec2ec7acf0eac45f6bcc7723))
+* **deps:** bump @contentful/dam-app-base from 2.2.19 to 2.3.1 in /apps/bynder ([#1681](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1681)) ([987e88e](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/987e88eb6eb2615ac955ada98f65afd74e770a64))
+* **deps:** bump @contentful/dam-app-base from 2.3.1 to 2.3.2 in /apps/bynder ([#1730](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1730)) ([e16fcff](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e16fcffdd1b791dfe18e328e046b1ea897c277f8))
+* **deps:** bump @contentful/dam-app-base from 3.0.0 to 3.0.2 in /apps/bynder ([#1825](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1825)) ([36b08ee](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/36b08ee5101e64db50624e8d2a721764b849b924))
+* **deps:** bump @contentful/dam-app-base from 3.0.2 to 3.0.3 in /apps/bynder ([#1909](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1909)) ([e71cb69](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e71cb697fdcb31628dedc677274fb377e3a0c26c))
+* **deps:** bump @contentful/dam-app-base from 3.0.3 to 3.0.4 in /apps/bynder ([#1954](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1954)) ([e14d8d0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/e14d8d00509ebdd5510ea187a38ec3ac2ba8cbfd))
+* **deps:** bump @contentful/dam-app-base from 3.0.5 to 3.0.6 in /apps/bynder ([#2034](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2034)) ([bed805d](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/bed805de8730e0d84309e6deb368ebb95383f577))
+* **deps:** bump @contentful/dam-app-base from 3.0.6 to 3.0.7 in /apps/bynder ([#2054](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2054)) ([a3e4b57](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/a3e4b57f4a9f791a974e32d682d37ff031c39b96))
+* **deps:** bump @contentful/dam-app-base from 3.0.7 to 3.0.8 in /apps/bynder ([#2091](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2091)) ([148894b](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/148894b9d22b1239ff29dbcdae27d9beced44223))
+
 ## [1.1.13](https://github.com/contentful/marketplace-partner-apps/compare/bynder-assets-v1.1.12...bynder-assets-v1.1.13) (2024-06-07)
 
 

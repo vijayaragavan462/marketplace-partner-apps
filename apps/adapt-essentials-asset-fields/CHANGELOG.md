@@ -1,5 +1,30 @@
 # Changelog
 
+## [1.2.0](https://github.com/vijayaragavan462/marketplace-partner-apps/compare/adapt-essentials-asset-fields-v1.1.2...adapt-essentials-asset-fields-v1.2.0) (2024-06-17)
+
+
+### Features
+
+* `adapt-essentials-asset-fields` search and bugfixes ([#1828](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1828)) ([5d60616](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/5d60616f402474286499a7ca8db99d5218ceff28))
+
+
+### Bug Fixes
+
+* **deps:** bump @contentful/f36-components from 4.64.0 to 4.65.0 in /apps/adapt-essentials-asset-fields ([#1591](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1591)) ([0542fff](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/0542fff329cf9441550b9e1270c719f45387956e))
+* **deps:** bump @contentful/f36-components from 4.65.0 to 4.65.3 in /apps/adapt-essentials-asset-fields ([#1675](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1675)) ([96c9906](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/96c990672ade73c3489c989ae3d59314b0b5d869))
+* **deps:** bump @contentful/f36-components from 4.65.3 to 4.65.5 in /apps/adapt-essentials-asset-fields ([#1726](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1726)) ([f33a56d](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/f33a56dad815f05edbabe873007a9f44d59729fd))
+* **deps:** bump @contentful/f36-components from 4.65.5 to 4.65.6 in /apps/adapt-essentials-asset-fields ([#1834](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1834)) ([788b0c0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/788b0c0f930181b70d668c80c3c43af512a8b6e3))
+* **deps:** bump @contentful/f36-components from 4.65.6 to 4.65.7 in /apps/adapt-essentials-asset-fields ([#1908](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1908)) ([2c9a80b](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/2c9a80b43417f40b506e806998a7a3a531a02fe1))
+* **deps:** bump @contentful/f36-components from 4.65.7 to 4.65.8 in /apps/adapt-essentials-asset-fields ([#1983](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1983)) ([a3f47d0](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/a3f47d0874f801afc3461e043900a470e44cabc6))
+* **deps:** bump @contentful/f36-components from 4.65.8 to 4.66.0 in /apps/adapt-essentials-asset-fields ([#2053](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2053)) ([ca93aef](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/ca93aef03cf2e041b8ca5423a289d0649262ad82))
+* **deps:** bump @contentful/f36-image from 4.65.7 to 4.65.8 in /apps/adapt-essentials-asset-fields ([#1942](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1942)) ([1b516c9](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/1b516c9c8a2cefa82cab36f261fbfbb1e0567f31))
+* **deps:** bump @contentful/f36-image from 4.65.8 to 4.66.0 in /apps/adapt-essentials-asset-fields ([#2037](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2037)) ([4cd173b](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/4cd173bec0224dad920790f18d0a092919ea0bfe))
+* **deps:** bump prettier from 3.2.5 to 3.3.0 in /apps/adapt-essentials-asset-fields ([#2002](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/2002)) ([0381669](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/0381669e9f67af7a18188dae85fdf135a38239af))
+* **deps:** bump react-dom and @types/react-dom in /apps/adapt-essentials-asset-fields ([#1767](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1767)) ([b4197c8](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/b4197c8804b33b07af5bf62d91fecc19440296e1))
+* **deps:** bump react-focus-lock from 2.11.3 to 2.12.1 in /apps/adapt-essentials-asset-fields ([#1577](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1577)) ([30c9402](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/30c9402295b3bbb33bdd79e0b408900594692192))
+* **deps:** bump react-router-dom from 6.22.3 to 6.23.0 in /apps/adapt-essentials-asset-fields ([#1651](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1651)) ([4dd77f7](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/4dd77f755975b79186e737fde550e08cd4f5779a))
+* **deps:** bump react-router-dom from 6.23.0 to 6.23.1 in /apps/adapt-essentials-asset-fields ([#1827](https://github.com/vijayaragavan462/marketplace-partner-apps/issues/1827)) ([d312a11](https://github.com/vijayaragavan462/marketplace-partner-apps/commit/d312a11cd27c2fa94cada46b729fec43bf685fa2))
+
 ## [1.1.2](https://github.com/contentful/marketplace-partner-apps/compare/adapt-essentials-asset-fields-v1.1.1...adapt-essentials-asset-fields-v1.1.2) (2024-06-07)
 
 
